@@ -7,7 +7,7 @@ A Python-based training tool to help Counter-Strike 2 players master the AK-47 s
 
 # Description
 
-- This program is designed to help improve recoil control for the AK-47 in CS2. It visualizes the weapon's spray pattern and allows users to practice following it with their mouse, providing immediate feedback on accuracy.
+This program is designed to help improve recoil control for the AK-47 in CS2. It visualizes the weapon's spray pattern and allows users to practice following it with their mouse, providing immediate feedback on accuracy.
 
 # Features
 
