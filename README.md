@@ -1,5 +1,5 @@
 
-## CS2 AK Sprayn trainer
+## CS2 AK Spray Trainer
 
 # Left click in the red circle and try to follow the recoil !
 
@@ -9,4 +9,4 @@
 
 ## to;do
 
-make a proper readme
+Make a proper readme....
