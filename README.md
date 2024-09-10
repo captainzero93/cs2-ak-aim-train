@@ -1,7 +1,7 @@
 
 # CS2 AK Spray Trainer
 
-## Left click in the red circle and try to follow the recoil !
+## Left click in the red circle and try to follow the recoil ! Clicking again will reset
 
 <p align="center">
   <img src="GUI.png" alt="Example image of the program.">
