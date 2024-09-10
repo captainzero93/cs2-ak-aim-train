@@ -21,7 +21,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Citation
 
-If you use UNet Extractor and Remover in your research or projects, please cite it as follows:
+If you use CS2 AK Spray Trainer in your research or projects, please cite it as follows:
 
 ```
 [Joe Faulkner] (captainzero93). (2024). CS2 AK Spray Trainer. GitHub. https://github.com/captainzero93/cs2-ak-aim-train
