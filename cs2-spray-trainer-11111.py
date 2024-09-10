@@ -66,7 +66,7 @@ last_score_index = -1
 clock = pygame.time.Clock()
 
 # AK-47 fire rate is about 600 RPM, or 10 rounds per second
-FIRE_RATE = 99  # ms between shots (as per the AutoHotkey script)
+FIRE_RATE = 99  # ms between shots (as per the AutoHotkey script I referenced for the pattern)
 
 def lerp(a, b, t):
     return a + (b - a) * t
