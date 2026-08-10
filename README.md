@@ -21,10 +21,3 @@ This program is designed to help improve recoil control for the AK-47 in CS2. It
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use CS2 AK Spray Trainer in your research or projects, please cite it as follows:
-
-```
-[Joe Faulkner] (captainzero93). (2024). CS2 AK Spray Trainer. GitHub. https://github.com/captainzero93/cs2-ak-aim-train
-```
